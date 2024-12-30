@@ -1,0 +1,10 @@
+C:\Users\Phung\source\repos\onthics\Phan2Bai1\bin\Debug\Phan2Bai1.exe.config
+C:\Users\Phung\source\repos\onthics\Phan2Bai1\bin\Debug\Phan2Bai1.exe
+C:\Users\Phung\source\repos\onthics\Phan2Bai1\bin\Debug\Phan2Bai1.pdb
+C:\Users\Phung\source\repos\onthics\Phan2Bai1\obj\Debug\Phan2Bai1.csproj.AssemblyReference.cache
+C:\Users\Phung\source\repos\onthics\Phan2Bai1\obj\Debug\Phan2Bai1.Properties.Resources.resources
+C:\Users\Phung\source\repos\onthics\Phan2Bai1\obj\Debug\Phan2Bai1.csproj.GenerateResource.cache
+C:\Users\Phung\source\repos\onthics\Phan2Bai1\obj\Debug\Phan2Bai1.csproj.CoreCompileInputs.cache
+C:\Users\Phung\source\repos\onthics\Phan2Bai1\obj\Debug\Phan2Bai1.exe
+C:\Users\Phung\source\repos\onthics\Phan2Bai1\obj\Debug\Phan2Bai1.pdb
+C:\Users\Phung\source\repos\onthics\Phan2Bai1\obj\Debug\Phan2Bai1.Form1.resources

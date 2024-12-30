@@ -1,0 +1,10 @@
+C:\Users\Phung\source\repos\onthics\onthics\bin\Debug\onthics.exe.config
+C:\Users\Phung\source\repos\onthics\onthics\bin\Debug\onthics.exe
+C:\Users\Phung\source\repos\onthics\onthics\bin\Debug\onthics.pdb
+C:\Users\Phung\source\repos\onthics\onthics\obj\Debug\onthics.csproj.AssemblyReference.cache
+C:\Users\Phung\source\repos\onthics\onthics\obj\Debug\onthics.Properties.Resources.resources
+C:\Users\Phung\source\repos\onthics\onthics\obj\Debug\onthics.csproj.GenerateResource.cache
+C:\Users\Phung\source\repos\onthics\onthics\obj\Debug\onthics.csproj.CoreCompileInputs.cache
+C:\Users\Phung\source\repos\onthics\onthics\obj\Debug\onthics.exe
+C:\Users\Phung\source\repos\onthics\onthics\obj\Debug\onthics.pdb
+C:\Users\Phung\source\repos\onthics\onthics\obj\Debug\onthics.Form1.resources
